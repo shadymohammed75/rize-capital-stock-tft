@@ -1,0 +1,30 @@
+# Machine Learning Framework
+torch>=2.0.0  # Updated for Python 3.11
+torchvision>=0.15.0  # Compatible with torch>=2.0
+torchaudio>=2.0.0
+
+# Data Processing
+pandas>=1.3.0,<2.0.0
+numpy>=1.21.0,<2.0.0
+scikit-learn>=1.0.0,<2.0.0
+
+# Visualization
+matplotlib>=3.4.0,<4.0.0
+seaborn>=0.11.0,<0.12.0
+plotly>=5.4.0  # For interactive visualizations
+
+# Additional ML Libraries
+lightgbm>=3.3.0  # For LGBM baseline
+transformers>=4.12.0  # For transformer model
+sentence-transformers>=2.0.0  # For news sentiment
+
+# Utilities
+tqdm>=4.62.0  # Progress bars
+python-dotenv>=0.19.0  # Environment variables
+pyarrow>=6.0.0  # For parquet file support
+
+# Development Tools
+jupyter>=1.0.0  # For notebooks
+ipykernel>=6.0.0
+black>=22.0.0  # Code formatting
+flake8>=4.0.0  # Linting
