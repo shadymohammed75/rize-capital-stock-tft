@@ -18,6 +18,7 @@ The model demonstrated strong convergence during training, successfully learning
 - **Final Optimized Validation Loss:** **3.68**
 - **Forecast Horizon:** 5 Trading Days
 
+<img width="430" height="250" alt="image" src="https://github.com/user-attachments/assets/625468a2-7bd4-4215-93a0-e3263b352533" />
 
 
 ## 📁 Project Structure
@@ -31,4 +32,3 @@ The model demonstrated strong convergence during training, successfully learning
 │   └── main.py         # Entry point for training pipeline
 └── requirements.txt    # Production dependencies
 
-<img width="430" height="250" alt="image" src="https://github.com/user-attachments/assets/37aa575f-b1c5-4064-9362-d20ff894edfa" />
