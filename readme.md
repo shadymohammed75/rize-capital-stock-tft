@@ -30,3 +30,5 @@ The model demonstrated strong convergence during training, successfully learning
 │   ├── predict.py      # Inference script for forward-looking forecasts
 │   └── main.py         # Entry point for training pipeline
 └── requirements.txt    # Production dependencies
+
+<img width="430" height="250" alt="image" src="https://github.com/user-attachments/assets/37aa575f-b1c5-4064-9362-d20ff894edfa" />
